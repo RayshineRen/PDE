@@ -13,3 +13,7 @@ Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Par
 #### VPINN
 
 VPINNs:Variational Physics-Informed Neural Networks For Solving Partial Differential Equations.
+
+#### gPINN
+
+Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.
