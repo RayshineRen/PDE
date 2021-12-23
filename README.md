@@ -18,6 +18,14 @@ VPINNs:Variational Physics-Informed Neural Networks For Solving Partial Differen
 
 Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.
 
+#### XPINN
+
+Extended physics-informed neural networks (XPINNs): A generalized space-time domain decomposition based deep learning framework for nonlinear partial differential equations
+
+#### cPINN
+
+Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems
+
 ### DeepONet
 
 #### DeepONet
@@ -28,3 +36,14 @@ Learning the solution operator of parametric partial differential equations with
 
 #### gPI DON
 no paper
+
+### RAR
+
+#### gPINN+RAR
+
+Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.
+
+#### PINN+RAR
+
+Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems.
+
