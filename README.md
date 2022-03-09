@@ -35,7 +35,16 @@ DeepONet: Learning nonlinear operators for identifying differential equations ba
 Learning the solution operator of parametric partial differential equations with physics-informed DeepOnets
 
 #### gPI DON
+
 no paper
+
+#### PI DON modified MLP
+
+Improved architectures and training algorithms for deep operator networks
+
+#### VPI DON
+
+A physics-informed variational DeepONet for predicting the crack path in brittle materials
 
 ### RAR
 
